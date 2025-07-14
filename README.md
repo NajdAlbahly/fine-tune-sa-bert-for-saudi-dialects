@@ -26,7 +26,7 @@ Saudi dialects contain rich linguistic patterns tied to various topics and domai
 
 ## Dataset
 
-### 📁 Dataset  
+### Dataset  
 - **Source:** [`AI-Diploma/saudi-dialect-classification-train`](https://huggingface.co/datasets/AI-Diploma/saudi-dialect-classification-train)  
 - **Type:** Arabic texts labeled by domain/category  
 - **Examples include:** finance, driving, daily life, and others  
