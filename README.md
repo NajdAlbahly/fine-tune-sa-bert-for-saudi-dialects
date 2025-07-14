@@ -57,7 +57,7 @@ Saudi dialects contain rich linguistic patterns tied to various topics and domai
 
 ---
 
-## 📚 Lessons Learned  
+## Lessons Learned  
 Choosing the **right pretrained model** (SA-BERT-V1) trained on Arabic gave a huge boost in understanding dialectal text.  
 **Dataset preparation matters** — exploring label distribution and cleaning text are critical for generalization.  
 Adding **early stopping** prevents overfitting and improves robustness.  
